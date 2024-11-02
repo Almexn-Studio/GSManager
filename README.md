@@ -1,0 +1,2 @@
+# GSManager
+一个基于MCSManager进行二次开发的商业化游戏服务器管理面板
